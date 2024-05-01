@@ -1,9 +1,8 @@
 <h1 align="center">Hola 👋, Yo soy Jose Luis Luera Ochoa.</h1>
 <h3 align="center">Soy un estudiante de Ingenieria de Software de Lima, Peru.</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*KRxVkzBIkf8WB9aW-fO3pg.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lueraochoajoseluis&label=Profile%20views&color=0e75b6&style=flat" alt="lueraochoajoseluis" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lueraochoajoseluis" alt="lueraochoajoseluis" /></a> </p>
 
 - 🌱 Estoy actualmente aprendiendo Back-end: **Node.js, MongoDB, PostgreSQL**
 
