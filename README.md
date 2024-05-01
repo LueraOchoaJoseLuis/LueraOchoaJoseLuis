@@ -12,7 +12,7 @@
 - 📄 Sobre mi experiencia: [No tengo experiencia en mi carrera, pero en lo que me tardo en encontrar un trabajo preprofesional, constantemente elevo mis conocimientos en el mundo de la programacion.](No tengo experiencia en mi carrera, pero en lo que me tardo en encontrar un trabajo preprofesional, constantemente elevo mis conocimientos en el mundo de la programacion.)
 
 <br>
-<img align="right" alt="Coding" src="https://miro.medium.com/v2/resize:fit:1280/1*KRxVkzBIkf8WB9aW-fO3pg.gif">
+<img align="right" alt="Coding" alt="400" src="https://miro.medium.com/v2/resize:fit:1280/1*KRxVkzBIkf8WB9aW-fO3pg.gif">
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
