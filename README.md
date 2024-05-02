@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋! My name is Jose Luis Luera Ochoa and I'm a Software Engineer  from Lima,Peru.</h1>
+<h1 align="left">Hi 👋! Mi nombre es Jose Luis Luera Ochoa y soy estudiante de Ingenieria de Software de Lima,Peru.</h1>
 
 ###
 
-<img align="right" height="150" src="https://portafolioluera.netlify.app/img/mclovin.jpg"  />
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1280/1*KRxVkzBIkf8WB9aW-fO3pg.gif"  />
 
 ###
 
