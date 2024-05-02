@@ -1,6 +1,6 @@
 # Hola 👋! Mi nombre es Jose Luis Luera Ochoa y soy estudiante de Ingeniería de Software de Lima, Perú.
 
-![Gif](https://miro.medium.com/v2/resize:fit:1280/1*KRxVkzBIkf8WB9aW-fO3pg.gif)
+![Gif](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ywok35ynjducmohley1.gif)
 
 <br><br>
 
